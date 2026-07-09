@@ -70,10 +70,9 @@ function App() {
             <div className="tech-item">MongoDB</div>
             <div className="tech-item">Git</div>
             <div className="tech-item">Tailwind CSS</div>
-          </div>
+    </div>
         </div>
       </div>
-    </div>
   );
 }
 
