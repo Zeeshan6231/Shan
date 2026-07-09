@@ -23,22 +23,6 @@ function App() {
           <li>✅ Node.js & Express</li>
           <li>✅ MongoDB</li>
         </ul>
-
-        <div className="stats">
-          <div>
-            <h2>5+</h2>
-            <p>Projects Built</p>
-          </div>
-          <div>
-            <h2>100+</h2>
-            <p>Problems Solved</p>
-          </div>
-          <div>
-            <h2>Always</h2>
-            <p>Learning</p>
-          </div>
-        </div>
-
         <a className="cta-btn" href="https://github.com" target="_blank" rel="noopener noreferrer">
           Explore My Journey →
         </a>
