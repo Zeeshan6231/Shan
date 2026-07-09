@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.App-header ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px auto;
+  text-align: left;
+  display: inline-block;
+}
+ .App-header li { 
+  margin: 10px 0;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
