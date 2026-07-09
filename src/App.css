@@ -36,6 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
 .App-header ul {
   list-style: none;
   padding: 0;
@@ -43,8 +44,10 @@
   text-align: left;
   display: inline-block;
 }
- .App-header li { 
+
+.App-header li {
   margin: 10px 0;
   font-size: 1.2rem;
   display: flex;
   align-items: center;
+}
