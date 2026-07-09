@@ -6,10 +6,6 @@ function App() {
       <nav className="navbar">
         <div className="logo">MZ</div>
         <div className="nav-links">
-          <a href="#home">Home</a>
-          <a href="#about">About</a>
-          <a href="#skills">Skills</a>
-          <a href="#contact">Contact</a>
         </div>
       </nav>
 
@@ -90,7 +86,8 @@ function App() {
               <div className="timeline-item">
                 <p className="year">2018 - 2020</p>
                 <h4>Matriculation</h4>
-                <p className="school">Centre of Excellence</p>
+                <p className="school">Centre of Excellence
+                </p>
                 <p className="desc">Science Group.</p>
               </div>
             </div>
