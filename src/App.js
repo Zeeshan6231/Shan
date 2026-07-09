@@ -50,33 +50,6 @@ function App() {
             <p className="value">working at ML Bench</p>
           </div>
         </div>
-
-        <div className="about-columns">
-          <div className="education">
-            <h3><span className="dot"></span> Education</h3>
-            <div className="timeline">
-              <div className="timeline-item">
-                <p className="year">2022 - 2026</p>
-                <h4>Bachelor in Information Technology</h4>
-                <p className="school">Islamia university of bahawalpur</p>
-                <p className="desc">Focused on Web Development, Algorithms and Data Structures.</p>
-              </div>
-              <div className="timeline-item">
-                <p className="year">2020 - 2022</p>
-                <h4>F.Sc (Pre-medical)</h4>
-                <p className="school">govt.post graduate collage</p>
-                <p className="desc">Major in English, Biology and Computer Science.</p>
-              </div>
-              <div className="timeline-item">
-                <p className="year">2018 - 2020</p>
-                <h4>Matriculation</h4>
-                <p className="school">Centre of Excellence
-                </p>
-                <p className="desc">Science Group.</p>
-              </div>
-            </div>
-          </div>
-
           <div className="goal">
             <h3><span className="dot"></span> My Goal</h3>
             <div className="goal-box">
